@@ -6,5 +6,9 @@
     {
         "merged": "E:\\AndroidApps\\AccelerometerPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\wood.jpg",
         "source": "E:\\AndroidApps\\AccelerometerPlay\\app\\src\\main\\res\\drawable-hdpi\\wood.jpg"
+    },
+    {
+        "merged": "E:\\AndroidApps\\AccelerometerPlay\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\board.jpg",
+        "source": "E:\\AndroidApps\\AccelerometerPlay\\app\\src\\main\\res\\drawable-hdpi\\board.jpg"
     }
 ]
