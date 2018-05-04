@@ -1,0 +1,60 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:3:1-26:12
+	package
+		ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:6:7-56
+		INJECTED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:5:7-32
+		INJECTED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:4:7-30
+		INJECTED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:3:11-69
+application
+ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:7:5-18:19
+	android:label
+		ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:7:47-79
+	android:icon
+		ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:7:18-46
+activity#com.sohel.android.accelerometer_example.AccelerometerActivity
+ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:8:9-16:20
+	android:screenOrientation
+		ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:10:19-55
+	android:label
+		ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:9:19-51
+	android:theme
+		ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:11:19-77
+	android:name
+		ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:8:19-95
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:12:13-15:29
+action#android.intent.action.MAIN
+ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:13:17-69
+	android:name
+		ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:13:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:14:27-74
+uses-sdk
+ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:21:1-48
+	android:targetSdkVersion
+		INJECTED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:21:11-36
+		INJECTED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml
+		INJECTED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.VIBRATE
+ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:22:1-78
+	android:name
+		ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:22:18-59
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:24:1-80
+	android:name
+		ADDED from E:\AndroidApps\AccelerometerPlay\app\src\main\AndroidManifest.xml:24:18-61
